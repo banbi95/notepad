@@ -6,7 +6,7 @@ import webbrowser
 import PySimpleGUI as sg
 from zhon import hanzi
 
-from SimpleText import gui
+import gui
 
 
 def new_file(window):
